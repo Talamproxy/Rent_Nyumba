@@ -1,0 +1,16 @@
+.loading{
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+     /--------- Lets bring it to center/
+    position: fixed;
+    top: 0; 
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin-left: 40px;
+    animation: round 1s linear infinite;
+ }@keyframes round{
+    from{transform: rotate(0deg);}
+    to{transform: rotate(360deg);}
+}
