@@ -32,6 +32,7 @@ if (Login::isLoggedIn()) {
     <link rel="stylesheet" href="assets/css/styles.css">
     <link rel="stylesheet" href="assets/css/untitled.css">
     <link rel="stylesheet" href="assets/css/search-box.css">
+          
 </head>
 
 <body>
