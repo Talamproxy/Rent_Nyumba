@@ -9,7 +9,7 @@ class Image {
 
 $options=array('http'=>array(
 	'method'=>"POST",
-	'header'=>"Authorization: Bearer 15d9f14d15fa3688104c12f29b2bbb2a6320cd6b\n".
+	'header'=>"Authorization: Bearer \n".
 	"Content-Type: application/x-www-form-urlencoded",
 	'content'=>$image
 ));
@@ -42,7 +42,7 @@ class Image1 {
 
 $options=array('http'=>array(
 	'method'=>"POST",
-	'header'=>"Authorization: Bearer 15d9f14d15fa3688104c12f29b2bbb2a6320cd6b\n".
+	'header'=>"Authorization: Bearer \n".
 	"Content-Type: application/x-www-form-urlencoded",
 	'content'=>$image
 ));
@@ -76,7 +76,7 @@ class Image2 {
 
 $options=array('http'=>array(
 	'method'=>"POST",
-	'header'=>"Authorization: Bearer 15d9f14d15fa3688104c12f29b2bbb2a6320cd6b\n".
+	'header'=>"Authorization: Bearer\n".
 	"Content-Type: application/x-www-form-urlencoded",
 	'content'=>$image
 ));
