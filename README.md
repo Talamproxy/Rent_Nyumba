@@ -1,1 +1,2 @@
-# Using-API-s-PHP-Ajax-requests-mysql-and-imagur-image-hosting-on-a-dynamic-content-website
+Real estate built on PHP, uses restful to send and recieve data in JSON format.
+Hosted on MySQL database, MD5 password encryption.
